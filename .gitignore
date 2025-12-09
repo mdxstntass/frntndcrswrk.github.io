@@ -8,12 +8,12 @@ package-lock.json
 yarn.lock
 pnpm-lock.yaml
 
-# Build outputs
+# Build outputs 
 dist/
 build/
 *.local
 
-# Environment variables
+# Environment variables 
 .env
 .env.local
 .env.*.local

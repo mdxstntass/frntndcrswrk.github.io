@@ -2,8 +2,8 @@
    CONFIGURATION & CONSTANTS
    ======================================== */
 
-// Base URL for API - adjust if your backend runs on a different port
-const API_BASE_URL = "http://localhost:3000";
+// Base URL for API - adjust if your backend runs on a different port 
+const API_BASE_URL = "https://bckndcrswrk.onrender.com";
 
 /* ========================================
    HELPER FUNCTIONS
